@@ -6,15 +6,15 @@
 
 #### Introduction to the subject, performance factors of DB	1.1 P2-6
 
-<img src="img\w1\1.png" alt="1" align="left" style="zoom:80%;" />
+<img src="img\w1\1.png" alt="1"  style="zoom:80%;" />
 
 #### Disk drives and their components	1.1 P7-16
 
 * ##### HDD
 
-<img src="img\w1\2.png" alt="2" align="left" />
+<img src="img\w1\2.png" alt="2"  />
 
-<img src="img\w1\3.png" alt="3" align="left" />
+<img src="img\w1\3.png" alt="3"  />
 
 
 
@@ -29,31 +29,31 @@
   * Relatively very expensive, thus did not dominate at all fronts yet
   * Certain read/write limitations plagued it for years
 
-<img src="img\w1\4.png" alt="4" align="left" />
+<img src="img\w1\4.png" alt="4"  />
 
 
 
 * ##### Moore’s law: memory chip capacity doubles every 18 months since 1970
 
-<img src="img\w1\5.png" alt="5" align="left" />
+<img src="img\w1\5.png" alt="5"  />
 
 
 
 * ##### Joy’s law for processors: processor performance doubles every two years since 1984
 
-<img src="img\w1\6.png" alt="6" align="left" />
+<img src="img\w1\6.png" alt="6"  />
 
 * ##### Storage Units
 
-<img src="img\w1\7.png" alt="7" align="left" />
+<img src="img\w1\7.png" alt="7"  />
 
 
 
 #### Memory hierarchy	1.1 P17-22
 
-<img src="img\w1\8.png" alt="8" align="left" style="zoom:80%;" />
+<img src="img\w1\8.png" alt="8"  style="zoom:80%;" />
 
-<img src="img\w1\9.png" alt="9" align="left" style="zoom:80%;" />
+<img src="img\w1\9.png" alt="9"  style="zoom:80%;" />
 
 
 
@@ -231,7 +231,7 @@ This means we can no longer reduce latency on contemporary hardware further and 
 
 * ##### A system's life cycle
 
-<img src="img\w1\10.png" alt="10" align="left" />
+<img src="img\w1\10.png" alt="10"  />
 
 
 
@@ -314,7 +314,7 @@ Typical Values for recent disks:
 
 ##### Fault tolerance of a supermodule with repair
 
-<img src="img\w1\11.png" alt="11" align="left" style="zoom:80%;" />
+<img src="img\w1\11.png" alt="11"  style="zoom:80%;" />
 
 
 
