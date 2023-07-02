@@ -16,6 +16,8 @@
 
 <img src="img\w1\3.png" alt="3" align="left" />
 
+
+
 * ##### SSD (Solid-State Drive)
 
   * No moving parts like Hard Disk Drive (HDD)
@@ -29,9 +31,13 @@
 
 <img src="img\w1\4.png" alt="4" align="left" />
 
+
+
 * ##### Moore’s law: memory chip capacity doubles every 18 months since 1970
 
 <img src="img\w1\5.png" alt="5" align="left" />
+
+
 
 * ##### Joy’s law for processors: processor performance doubles every two years since 1984
 
@@ -41,11 +47,15 @@
 
 <img src="img\w1\7.png" alt="7" align="left" />
 
+
+
 #### Memory hierarchy	1.1 P17-22
 
 <img src="img\w1\8.png" alt="8" align="left" style="zoom:80%;" />
 
 <img src="img\w1\9.png" alt="9" align="left" style="zoom:80%;" />
+
+
 
 #### Communication Costs	Live1 P21
 
@@ -223,6 +233,8 @@ This means we can no longer reduce latency on contemporary hardware further and 
 
 <img src="img\w1\10.png" alt="10" align="left" />
 
+
+
 #### RAID	1.3 P7-14
 
 ##### Redundant Array of Independent Disks – different ways to combine multiple disks as a unit for fault tolerance or performance improvement, or both of a database system
@@ -303,6 +315,8 @@ Typical Values for recent disks:
 ##### Fault tolerance of a supermodule with repair
 
 <img src="img\w1\11.png" alt="11" align="left" style="zoom:80%;" />
+
+
 
 #### Communication reliability	1.3 P22-33
 
