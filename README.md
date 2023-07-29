@@ -32,17 +32,46 @@
 
 #### Tutorial
 
-* [Slides](tutorials/slides/week1.pdf)
+* [Slides](tutorials/slides/slide1.pdf)
 
-* [Sheet](tutorials/sheets/t1.pdf) & [Solution](tutorials/sheets/t1s.pdf)
+* [Sheet](tutorials/sheets/t1.pdf) & [Solutions](tutorials/sheets/t1s.pdf)
 
 
 
-## Week 2
+## [Week 2](resources/week2.md)
+
+#### [Part 1-2](lectures/week2/2.1.pdf)
+
+* Database engine
+* Background: relational algebra and join
+* Join algorithms
+* Query costs 
+* Advanced query optimization
+
+#### [Part 3](lectures/week2/2.2.pdf)
+
+* Managing query costs in practice
+
+#### [Part 4-5](lectures/week2/2.3.pdf) / [Part 6](lectures/week2/2.4.pdf)
+
+* Indexing concepts
+* Different types of indexes: B+tree, hash index, bitmap index, Quadtree, R-tree,
+* Using indexes in SQL
+
+#### [Live 2](lectures/week2/live2.pdf)
+
+#### Tutorial
+
+* [Slides](tutorials/slides/slide2.pdf)
+* [Sheet](tutorials/sheets/t2.pdf) & [Solutions](tutorials/sheets/t2s.pdf)
 
 
 
 ## Week 3
+
+
+
+
 
 
 
