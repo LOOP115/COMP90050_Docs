@@ -104,13 +104,13 @@ In that case, each of those processes will have to re-execute the routine for ac
 
 #### Dependencies
 
-![2](img\w3\2.png)
+<img src="img\w3\2.png" alt="1"/>
 
 ##### Read-Read dependency do not affect isolation
 
-![1](img\w3\1.png)
+<img src="img\w3\1.png" alt="1"/>
 
-![3](img\w3\3.png)
+<img src="img\w3\3.png" alt="1"/>
 
 A history is serial if it runs one transaction at a time sequentially, or equivalent to a serial history.
 
@@ -122,7 +122,7 @@ A serial history is an isolated history.
 
 **SLOCK (shared lock):** allows other transactions to read, but not write/modify the shared resource
 
-![4](C:\Users\cjhm0\Desktop\COMP90050_Docs\resources\img\w3\4.png)
+<img src="img\w3\4.png" alt="1"/>
 
 **Well-formed transactions:**A transaction is well formed if all READ, WRITE and UNLOCK operations are covered by appropriate LOCK operations
 
@@ -185,7 +185,7 @@ To acquire an X, U, SIX, or IX mode lock on a non-root node, all parents must be
 
 #### Compatibility Mode of Granular Locks
 
-![5](C:\Users\cjhm0\Desktop\COMP90050_Docs\resources\img\w3\5.png)
+<img src="img\w3\5.png" alt="1"/>
 
 
 

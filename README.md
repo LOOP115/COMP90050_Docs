@@ -71,7 +71,7 @@
 
 
 
-## Week 3
+## [Week 3](resources/week3.md)
 
 #### [Part 1-2](lectures/week3/3.1.pdf)
 
@@ -116,7 +116,7 @@
 
 
 
-## Week 4
+## [Week 4](resources/week4.md)
 
 #### [Part 1-2: Crash recovery](lectures/week4/4.1.pdf)
 
@@ -159,3 +159,11 @@
 * [Sheet](tutorials/sheets/t4.pdf) & [Solutions](tutorials/sheets/t4s.pdf)
 
 #### Quiz 5	[1-2](quizzes/5.1.png) [3-4](quizzes/5.2.png)
+
+
+
+## [Project](project)
+
+## [Practice Final Exam](quizzes/prac.pdf)
+
+
